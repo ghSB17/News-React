@@ -65,7 +65,7 @@ class Home extends Component {
                   <input
                     name="q"
                     value={this.state.q}
-                    placeholder="Search for an article topic"
+                    placeholder="Search for an article topic-Enter Your topic to search"
                     type="text"
                     onChange={this.handleOnChange}
                     className="form-control mb-2"/>
